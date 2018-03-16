@@ -1,0 +1,8 @@
+This is one easy program to standard the picture read by qt.
+	1. Using the qt thread, if you use it never, you can refer this.
+	   Progress bar is using.
+	2. Scan all the file in some directory.
+	3. QImage read some picture[not standard for qt], write back using QImage, they will
+	   be standard for qt.
+
+Good luck!
